@@ -1,4 +1,4 @@
-var aa=250;
+var aa=50;
 var text=""
 text=check_the_num(aa)
 
